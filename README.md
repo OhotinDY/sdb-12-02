@@ -32,8 +32,12 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 Проверка статуса и версии mysql:
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql2.jpg)
 
-
+Запуск mysql от имени пользователя root,
+Создание учетной записи sys_temp,
+Выполнение запроса на получение списка пользователей в базе данных:
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql3.jpg)
+
+
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql4.jpg)
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql5.jpg)
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql6.jpg)
