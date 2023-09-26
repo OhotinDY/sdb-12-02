@@ -28,8 +28,11 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Установка mysql:
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql1.jpg)
+
 Проверка статуса и версии mysql:
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql2.jpg)
+
+
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql3.jpg)
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql4.jpg)
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql5.jpg)
