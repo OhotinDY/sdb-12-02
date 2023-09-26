@@ -55,4 +55,5 @@ customer         | customer_id
 ---
 
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql7.jpg)
+
 ![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql8.jpg)
