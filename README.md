@@ -24,7 +24,17 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
-![install]()
+---
+
+Установка mysql:
+![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql1.jpg)
+![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql2.jpg)
+![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql3.jpg)
+![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql4.jpg)
+![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql5.jpg)
+![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql6.jpg)
+![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql7.jpg)
+![install](https://github.com/OhotinDY/sdb-12-02/blob/main/sql8.jpg)
 
 ### Задание 2
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
